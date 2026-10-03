@@ -76,7 +76,7 @@
   "Jhelum Boys": {
     "Mon": {
       "breakfast": "Poha, Tea, Banana",
-      "lunch": "Razma, Rice, Roti, Salad",
+      "lunch": "Rajma, Rice, Roti, Salad",
       "dinner": "Mix Veg, Dal, Roti, Rice"
     },
     "Tue": {
@@ -222,6 +222,117 @@
     }
   },
   "Girls Hostel": {
+    "Mon": {
+      "breakfast": "Poha, Tea, Banana",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Mix Veg, Dal, Roti, Rice"
+    },
+    "Tue": {
+      "breakfast": "Aloo Paratha, Curd, Tea",
+      "lunch": "Chole, Rice, Roti, Salad",
+      "dinner": "Paneer Curry, Dal, Roti, Rice"
+    },
+    "Wed": {
+      "breakfast": "Bread Omelette, Tea",
+      "lunch": "Kadhi Pakora, Rice, Roti",
+      "dinner": "Egg Curry, Dal, Roti, Rice"
+    },
+    "Thu": {
+      "breakfast": "Idli Sambhar, Tea",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Kofta Curry, Dal, Roti, Rice"
+    },
+    "Fri": {
+      "breakfast": "Chola Bhatura, Tea",
+      "lunch": "Dal Makhani, Rice, Roti",
+      "dinner": "Chicken Curry, Dal, Roti, Rice"
+    },
+    "Sat": {
+      "breakfast": "Upma, Tea, Banana",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Shahi Paneer, Dal, Roti, Rice"
+    },
+    "Sun": {
+      "breakfast": "Chole Bhature, Tea",
+      "lunch": "Special Thali, Sweet",
+      "dinner": "Mutton Curry, Dal, Roti, Rice"
+    }
+  },
+  "Indus": {
+    "Mon": {
+      "breakfast": "Poha, Tea, Banana",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Mix Veg, Dal, Roti, Rice"
+    },
+    "Tue": {
+      "breakfast": "Aloo Paratha, Curd, Tea",
+      "lunch": "Chole, Rice, Roti, Salad",
+      "dinner": "Paneer Curry, Dal, Roti, Rice"
+    },
+    "Wed": {
+      "breakfast": "Bread Omelette, Tea",
+      "lunch": "Kadhi Pakora, Rice, Roti",
+      "dinner": "Egg Curry, Dal, Roti, Rice"
+    },
+    "Thu": {
+      "breakfast": "Idli Sambhar, Tea",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Kofta Curry, Dal, Roti, Rice"
+    },
+    "Fri": {
+      "breakfast": "Chola Bhatura, Tea",
+      "lunch": "Dal Makhani, Rice, Roti",
+      "dinner": "Chicken Curry, Dal, Roti, Rice"
+    },
+    "Sat": {
+      "breakfast": "Upma, Tea, Banana",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Shahi Paneer, Dal, Roti, Rice"
+    },
+    "Sun": {
+      "breakfast": "Chole Bhature, Tea",
+      "lunch": "Special Thali, Sweet",
+      "dinner": "Mutton Curry, Dal, Roti, Rice"
+    }
+  },
+  "Chenab": {
+    "Mon": {
+      "breakfast": "Poha, Tea, Banana",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Mix Veg, Dal, Roti, Rice"
+    },
+    "Tue": {
+      "breakfast": "Aloo Paratha, Curd, Tea",
+      "lunch": "Chole, Rice, Roti, Salad",
+      "dinner": "Paneer Curry, Dal, Roti, Rice"
+    },
+    "Wed": {
+      "breakfast": "Bread Omelette, Tea",
+      "lunch": "Kadhi Pakora, Rice, Roti",
+      "dinner": "Egg Curry, Dal, Roti, Rice"
+    },
+    "Thu": {
+      "breakfast": "Idli Sambhar, Tea",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Kofta Curry, Dal, Roti, Rice"
+    },
+    "Fri": {
+      "breakfast": "Chola Bhatura, Tea",
+      "lunch": "Dal Makhani, Rice, Roti",
+      "dinner": "Chicken Curry, Dal, Roti, Rice"
+    },
+    "Sat": {
+      "breakfast": "Upma, Tea, Banana",
+      "lunch": "Rajma, Rice, Roti, Salad",
+      "dinner": "Shahi Paneer, Dal, Roti, Rice"
+    },
+    "Sun": {
+      "breakfast": "Chole Bhature, Tea",
+      "lunch": "Special Thali, Sweet",
+      "dinner": "Mutton Curry, Dal, Roti, Rice"
+    }
+  },
+  "Jhelum Extension": {
     "Mon": {
       "breakfast": "Poha, Tea, Banana",
       "lunch": "Rajma, Rice, Roti, Salad",
